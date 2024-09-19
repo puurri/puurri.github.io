@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://puurri.github.io/fDl/sitemap.fDl.gz
